@@ -1,0 +1,17 @@
+
+ body{
+  background-color: aquamarine;
+ }
+ 
+.navbar{
+  width: 100%;
+  background-color: aqua;
+}
+.heading{
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+.heading h1{
+  color: brown;
+}
